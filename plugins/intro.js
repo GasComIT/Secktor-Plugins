@@ -1,17 +1,17 @@
-var surl = 'https://github.com/SamPandey001/Secktor-Md' // Source URL
-const number = '919628516236'
-var name = '𝐒𝚫𝚳 𝚸𝚫𝚴𝐃𝚵𝐘'
+var surl = 'https://github.com/Royce-B/Secktor-Md' // Source URL
+const number = '254718241545'
+var name = 'Royce Bob'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
-│ *Place       :* U.P.
+│ *Name      :* Royce Bob
+│ *Place       :* Nakuru-Kenya
 │ *Gender   :*  ᴍᴀʟᴇ
-│ *Age          :* 17_
-│ *Phone     :* wa.me/91xxxxxx
-│ *IG ID        :* ig.com
+│ *Age          :* _22_
+│ *Phone     :* wa.me/254718241545
+│ *IG ID        :* instagram.com/royce__bob
 │ *Status     :* Chilling._
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`
 
