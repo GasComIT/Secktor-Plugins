@@ -18,207 +18,153 @@
 
 ---
 
-<h4 align="center">  BGM | misc </h1>
+<h4 align="center">  Editor Pack </h1>
 
-Activates bgm in bot.
+Photo editor pack
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
-```
-
----
-
-<h4 align="center">  Intro | general </h1>
-
-Sends intro of owner. Edit json accourding yourself.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/intro.js
+https://gist.github.com/SamPandey001/47ce45f5519dd9d4f74b68fc675d7eb6/raw
 ```
 
 ---
 
-<h4 align="center">  Askdog  | troll </h1>
+<h4 align="center">  Pm-Permit </h1>
 
-Makes troll image
+Pm Permit Protection
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/askdog.js
-```
----
-
-<h4 align="center">  Doggy  | troll </h1>
-
-Makes troll image
-```
-https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/doggy.js
-```
-
----
-
-<h4 align="center">  HappyDog  | troll </h1>
-
-Makes troll image
-```
-https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/happydog.js
-```
-
----
-
-<h4 align="center">  Mp3crusher  | X-Media </h1>
-
-Distorts the sound, makes ridiculous.
-```
-https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/mp3crusher.js
-```
-
----
-
-<h4 align="center">  spectrum | X-Media </h1>
-
-Converts the spectrum of sound into video.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/spectrum.js
-```
-
----
-
-<h4 align="center">  mp4image  | X-Media </h1>
-
-Converts photo to 4 sec video.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/mp4image.js
-```
----
-
-<h4 align="center">  x4mp4 | X-Media </h1>
-
-Reduce video’s quality by 75%.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
-```
-
----
-
-<h4 align="center"> Pm blocker | Utility</h1>
-
-A module which blocks to user if he sends msg in Private.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/pm-blocker.js
-```
-
----
-
-<h4 align="center">  x2mp4 | X-Media </h1>
-
-Reduce video’s quality by 50%.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x2mp4.js
+https://gist.github.com/SamPandey001/3157eb9b5a3b0de72da50785f84ff5fe/raw
 ```
 
 
 ---
 
-<h4 align="center">  Owner | General </h1>
+<h4 align="center">  BGM </h1>
 
-Sends owner number.
+BGM at specific word.
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/owner.js
-```
-
----
-
-<h4 align="center">  why | Fun </h1>
-
-Sends owner number.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/why.js
-```
-
-
----
-
-<h4 align="center">  cosplay | NSFW </h1>
-
-NSFW Pic(18+)
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/cosplay.js
+https://gist.githubusercontent.com/SamPandey001/6d706c8725ac76cb9b8e8ccba6ef91c9/raw
 ```
 
 ---
 
-<h4 align="center">  ecchi | NSFW </h1>
+<h4 align="center">  Media Pack </h1>
 
-NSFW Pic(18+)
+Media editor pack
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/ecchi.js
-```
-
----
-
-<h4 align="center">  hentaivid | NSFW </h1>
-
-NSFW Video(18+).
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/hentaivid.js
+https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 ```
 
 ---
 
-<h4 align="center">  henati | NSFW </h1>
+<h4 align="center">  Switches </h1>
 
-NSFW Pic(18+)
+Switches for various task(List message to ease your work).
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/henati.js
+https://gist.github.com/SamPandey001/b76fb6d996606c5da6b19e807a8ba22c/raw
+```
+
+
+---
+
+<h4 align="center">  Troll Pack </h1>
+
+Troll pack
+```
+https://gist.github.com/SamPandey001/203aa1a413bf0d2264b03b3448a83b1d/raw
 ```
 
 ---
 
-<h4 align="center">  Ranal | NSFW </h1>
+<h4 align="center">  Mention Preview </h1>
 
-NSFW Pic(18+)
+Sends audio when someone mentios bot.
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/ranal.js
-```
-
----
-
-<h4 align="center">  rpussy | NSFW </h1>
-
-NSFW Pic(18+)
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/rpussy.js
+https://gist.githubusercontent.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269/raw/61b9593692ac8ac7a516dc94d6591aa8c9808b8b
 ```
 
 ---
 
-<h4 align="center">  Solo | NSFW </h1>
+<h4 align="center">  NSFW pack </h1>
 
-NSFW Pic(18+)
+NSFW pack
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/solo.js
-```
-
----
-
-<h4 align="center">  Vixen | NSFW </h1>
-
-NSFW Pic(18+)
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/vixen.js
+https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw
 ```
 
 ---
 
-<h4 align="center"> Slow-Mo | tool </h1>
+<h4 align="center">  Pm blocker </h1>
 
-Adds slow motion in video.
+Pm blocker
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/slowmo.js
+https://gist.github.com/SamPandey001/42a6856ec4ccf8dda19729913b19e350/raw/e666f2038a98fadd959bb01742a2ec86a56ec8bc/pmblocker.js
+```
+
+---
+
+<h4 align="center"> Sample Plugin </h1>
+
+Sample of making plugins in Secktor
+```
+https://gist.github.com/SamPandey001/5224fb9d5d7874a58ac2388fc89720a9/raw
+```
+
+---
+
+<h4 align="center"> shipment </h1>
+
+```
+https://gist.github.com/SamPandey001/28d55f52dd7f7d91f17bf4c1bd5b8da6/raw
 ```
 
 
+---
+
+<h4 align="center"> find audio </h1>
+
+```
+https://gist.github.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw
+```
+
+---
+
+<h4 align="center"> Intro </h1>
+
+Intro plugins
+```
+https://gist.github.com/SamPandey001/f96ea773e1c44cc2849f42fb7c4a968f/raw
+```
+
+---
+
+<h4 align="center"> Audio </h1>
+
+Audio pack
+```
+https://gist.github.com/SamPandey001/0b7f3d51a6b74502c236cd37b92035b2
+```
+
+---
+
+<h4 align="center"> Text-to-Image </h1>
+
+```
+https://gist.github.com/SamPandey001/5557839a39f7558ffd24d6c7d821d34a/raw
+```
+
+---
+
+<h4 align="center"> Weeb-UwU </h1>
+
+```
+https://gist.github.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw
+```
+
+---
+
+<h4 align="center"> Reaction-Pack </h1>
+
+```
+https://gist.github.com/SamPandey001/3d3c8faef08a33751186dcb56d0790b9/raw
+```
 
 
-
-
-Thanks To:-
-
-[Phaticusthiccy](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/plugins/XMedia.js) for X-Media.
