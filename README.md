@@ -16,6 +16,45 @@
 
 ---
 
+
+<h4 align="center"> Fullgpp </h1>
+
+Set Full Group Profile Pic
+```
+https://gist.github.com/SuhailTechInfo/5ac882f52a000f1e51d1eb4922761c1a/raw
+```
+- Created By @SuhailTechInfo
+---
+
+
+<h4 align="center">  Editable BGM </h1>
+add bgm on specific words just by repling a audio/video
+
+```
+https://gist.github.com/SamPandey001/76524c0b7b112931dad3e60559e996f0/raw/
+```
+
+
+---
+<h4 align="center">  FaceBook Downloader </h1>
+
+Facebook Video Downloader
+```
+https://gist.githubusercontent.com/SuhailTechInfo/c86b75e00c06da1743a6a5f1b18f5587/raw/ad8420a4bf3a1da515e486bbf57cda02c2f51750/fbdl-Secktor.js
+```
+
+
+---
+
+
+<h4 align="center">  TikTok Downloader </h1>
+
+TikTok No Watermark Downloader
+```
+https://gist.githubusercontent.com/SuhailTechInfo/94464b9f031789bf1023c4c03eead71c/raw/a5aa40ba3be13ae1d51d5b25e5be59ec814b252f/tiktokdl-secktor.js
+```
+
+
 ---
 
 <h4 align="center">  Editor Pack </h1>
@@ -53,24 +92,7 @@ Media editor pack
 https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 ```
 
----
 
-<h4 align="center">  Switches </h1>
-
-Switches for various task(List message to ease your work).
-```
-https://gist.github.com/SamPandey001/b76fb6d996606c5da6b19e807a8ba22c/raw
-```
-
-
----
-
-<h4 align="center">  Troll Pack </h1>
-
-Troll pack
-```
-https://gist.github.com/SamPandey001/203aa1a413bf0d2264b03b3448a83b1d/raw
-```
 
 ---
 
@@ -87,7 +109,7 @@ https://gist.githubusercontent.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269
 
 NSFW pack
 ```
-https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw
+https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw/df844dffdcf72bc92d576b41bd0dc5f6c75a70f6/nsfw-pack.js
 ```
 
 ---
@@ -122,7 +144,7 @@ https://gist.github.com/SamPandey001/28d55f52dd7f7d91f17bf4c1bd5b8da6/raw
 <h4 align="center"> find audio </h1>
 
 ```
-https://gist.github.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw
+https://gist.githubusercontent.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw/
 ```
 
 ---
@@ -156,7 +178,7 @@ https://gist.github.com/SamPandey001/5557839a39f7558ffd24d6c7d821d34a/raw
 <h4 align="center"> Weeb-UwU </h1>
 
 ```
-https://gist.github.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw
+https://gist.githubusercontent.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw/25e31570b2789e5304f88f93f9ab06f0f952ca89/weeb-UwU.js
 ```
 
 ---
